@@ -6,7 +6,6 @@
   background-color: var(--p-color);
   color: var(--s-color);
 
-
   @media screen and (max-width: 900px) {
     flex-direction: column;
     height: auto;
@@ -23,7 +22,7 @@
   gap: 10px;
 }
 
-.navbar-name{
+.navbar-name {
   letter-spacing: 3px;
 }
 
@@ -49,4 +48,13 @@
 .navbar-container-hr {
   margin: 0;
   border: 1px solid var(--s-color);
+}
+
+.link-color {
+  color: var(--s-color);
+  text-decoration: none;
+}
+
+a.active {
+  border-bottom: 3px solid var(--s-color);
 }

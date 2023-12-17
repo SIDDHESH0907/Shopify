@@ -1,17 +1,14 @@
-import logo from "./logo.svg";
 import "./App.css";
-import ProductList from "./components/products/ProductList";
 import Navbar from "./components/common/Navbar";
 import Footer from "./components/common/Footer";
-import Contact from "./components/pages/Contact";
+import { Outlet } from "react-router-dom";
 
 function App() {
   return (
     <>
       <Navbar />
-<Contact/>
-      {/* <ProductList /> */}
-      {/* <Footer/> */}
+      <Outlet />
+      <Footer />
     </>
   );
 }

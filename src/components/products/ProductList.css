@@ -1,87 +1,95 @@
 .list-grid {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    gap: 20px;
-    margin: 30px;
-  
-    @media screen and (max-width: 1200px) {
-      grid-template-columns: repeat(3, 1fr);
-    }
-  
-    @media screen and (max-width: 900px) {
-      grid-template-columns: repeat(2, 1fr);
-    }
-  
-    @media screen and (max-width: 600px) {
-      grid-template-columns: repeat(1, 1fr);
-    }
-  }
-  
-  .list-container {
-    display: flex;
-    background-color: var(--p-color);
-    justify-content: center;
-  }
-  
-  .select-category {
-    height: 40px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background-color: var(--p-color);
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+  margin: 30px;
 
-    @media screen and (max-width: 500px) {
-flex-direction: column;
-height: auto;
-    }
+  @media screen and (max-width: 1200px) {
+    grid-template-columns: repeat(3, 1fr);
   }
-  
-  .select-category-btn {
-    height: 40px;
-    padding: 0px 15px;
-    font-size: 15px;
-    font-weight: 500;
-    border: none;
-    border-radius: unset;
-    color: var(--s-color);
-    background-color: var(--p-color);
-    transition: all 0.3s ease;
-    cursor: pointer;
+
+  @media screen and (max-width: 900px) {
+    grid-template-columns: repeat(2, 1fr);
   }
-  
-  .select-category-btn:hover {
-    color: var(--p-color);
-    background-color: var(--s-color);
+
+  @media screen and (max-width: 600px) {
+    grid-template-columns: repeat(1, 1fr);
   }
-  
-  .select-category-hr {
-    margin: 0;
-    padding: 0;
-    border: 1px solid var(--s-color);
+}
+
+.list-container {
+  display: flex;
+  background-color: var(--p-color);
+  justify-content: center;
+}
+
+.select-category {
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--p-color);
+
+  @media screen and (max-width: 500px) {
+    flex-direction: column;
+    height: auto;
   }
-  
-  .pagination-btn {
-    height: 40px;
-    border: none;
-    color: var(--s-color);
-    background-color: var(--p-color);
-    font-size: 15px;
-    font-style: 500;
-    transition: all 0.3s ease;
-    padding: 0px 15px;
-    cursor: pointer;
-    border-radius: unset;
-  }
-  
-  .pagination-btn:hover {
-    color: var(--p-color);
-    background-color: var(--s-color);
-  }
-  
-  .pagination {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: var(--p-color);
-  }
-  
+}
+
+.select-category-btn {
+  height: 40px;
+  padding: 0px 15px;
+  font-size: 15px;
+  font-weight: 500;
+  border: none;
+  border-radius: unset;
+  color: var(--s-color);
+  background-color: var(--p-color);
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.select-category-btn:hover {
+  color: var(--p-color);
+  background-color: var(--s-color);
+}
+
+.select-category-hr {
+  margin: 0;
+  padding: 0;
+  border: 1px solid var(--s-color);
+}
+
+.pagination-btn {
+  height: 40px;
+  border: none;
+  color: var(--s-color);
+  background-color: var(--p-color);
+  font-size: 15px;
+  font-style: 500;
+  transition: all 0.3s ease;
+  padding: 0px 15px;
+  cursor: pointer;
+  border-radius: unset;
+}
+
+.pagination-btn:hover {
+  color: var(--p-color);
+  background-color: var(--s-color);
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--p-color);
+}
+
+.product-headline {
+  font-size: 24px;
+  font-weight: 600;
+  text-align: center;
+  background-color: var(--p-color);
+  color: var(--s-color);
+  padding: 20px 0 0 0;
+}
