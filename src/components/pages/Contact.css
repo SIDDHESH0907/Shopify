@@ -1,0 +1,32 @@
+.contact-container {
+  background-color: var(--p-color);
+}
+
+.contact-page {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+  background-color: var(--p-color);
+}
+
+h1 {
+  color: var(--s-color);
+}
+
+.contact-info,
+.business-hours,
+.location {
+  margin-top: 30px;
+}
+
+h2 {
+  color: var(--s-color);
+  border-bottom: 2px solid var(--s-color);
+  padding-bottom: 5px;
+}
+
+p {
+  color: var(--s-color);
+  margin-bottom: 10px;
+}

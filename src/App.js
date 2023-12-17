@@ -3,14 +3,15 @@ import "./App.css";
 import ProductList from "./components/products/ProductList";
 import Navbar from "./components/common/Navbar";
 import Footer from "./components/common/Footer";
+import Contact from "./components/pages/Contact";
 
 function App() {
   return (
     <>
       <Navbar />
-
-      <ProductList />
-      <Footer/>
+<Contact/>
+      {/* <ProductList /> */}
+      {/* <Footer/> */}
     </>
   );
 }
