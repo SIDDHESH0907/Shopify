@@ -1,4 +1,3 @@
-// ProductList.js
 import React, { useState } from "react";
 import ProductCard from "./ProductCard";
 import useFetchApi from "../hooks/useFetchApi";
@@ -46,12 +45,52 @@ function ProductList() {
   const scrollToTop = () => {
     window.scrollTo({
       top: 0,
-      behavior:"instant",
+      behavior: "instant",
     });
   };
 
   return (
     <>
+      <div className="select-category">
+        <button
+          className="select-category-btn"
+          onClick={() => setUrl("http://localhost:3000/products")}
+        >
+          All
+        </button>
+        <button
+          className="select-category-btn"
+          onClick={() =>
+            setUrl("http://localhost:3000/products?category=Mobiles")
+          }
+        >
+          Mobiles
+        </button>
+        <button
+          className="select-category-btn"
+          onClick={() => setUrl("http://localhost:3000/products?category=TVs")}
+        >
+          Televisions
+        </button>
+        <button
+          className="select-category-btn"
+          onClick={() =>
+            setUrl("http://localhost:3000/products?category=Tablets")
+          }
+        >
+          Tablets
+        </button>
+        <button
+          className="select-category-btn"
+          onClick={() =>
+            setUrl("http://localhost:3000/products?category=Laptops")
+          }
+        >
+          Laptops
+        </button>
+      </div>
+      <hr className="select-category-hr" />
+
       <div className="list-container">
         <div className="list-grid">
           {shuffleArray(products)
@@ -61,6 +100,8 @@ function ProductList() {
             ))}
         </div>
       </div>
+
+      <hr className="select-category-hr" />
 
       <div className="pagination">
         <button

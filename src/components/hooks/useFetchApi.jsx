@@ -1,4 +1,3 @@
-// useFetchApi.js
 import { useState, useEffect } from "react";
 
 const useFetchApi = (initialUrl) => {

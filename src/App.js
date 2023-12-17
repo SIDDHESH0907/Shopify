@@ -1,12 +1,15 @@
-import logo from './logo.svg';
-import './App.css';
-import ProductList from './components/products/ProductList';
+import logo from "./logo.svg";
+import "./App.css";
+import ProductList from "./components/products/ProductList";
+import Navbar from "./components/common/Navbar";
 
 function App() {
   return (
-    <div className="App">
-      <ProductList/>
-    </div>
+    <>
+      <Navbar />
+
+      <ProductList />
+    </>
   );
 }
 
