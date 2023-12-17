@@ -1,0 +1,524 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone 14",
+      "category": "Mobiles",
+      "price": 999.99,
+      "images": [
+        "/images/mobiles/iPhone 14-1.webp",
+        "/images/mobiles/iPhone 14-2.webp"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "iPhone 15",
+      "category": "Mobiles",
+      "price": 999.99,
+      "images": [
+        "/images/mobiles/iPhone 15-1.webp",
+        "/images/mobiles/iPhone 15-2.webp"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Nothing Phone 1",
+      "category": "Mobiles",
+      "price": 999.99,
+      "images": [
+        "/images/mobiles/Nothing Phone 1-1.webp",
+        "/images/mobiles/Nothing Phone 1-2.webp"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Nothing Phone 2",
+      "category": "Mobiles",
+      "price": 999.99,
+      "images": [
+        "/images/mobiles/Nothing Phone 2-1.webp",
+        "/images/mobiles/Nothing Phone 2-2.webp"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "OnePlus 11",
+      "category": "Mobiles",
+      "price": 999.99,
+      "images": [
+        "/images/mobiles/OnePlus 11-1.webp",
+        "/images/mobiles/OnePlus 11-2.webp"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "OnePlus Nord CE3",
+      "category": "Mobiles",
+      "price": 999.99,
+      "images": [
+        "/images/mobiles/OnePlus Nord CE3-1.webp",
+        "/images/mobiles/OnePlus Nord CE3-2.webp"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Oppo Find N3 Flip",
+      "category": "Mobiles",
+      "price": 999.99,
+      "images": [
+        "/images/mobiles/Oppo Find N3 Flip-1.webp",
+        "/images/mobiles/Oppo Find N3 Flip-2.webp"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Oppo Reno 10 Pro",
+      "category": "Mobiles",
+      "price": 999.99,
+      "images": [
+        "/images/mobiles/Oppo Reno 10 Pro-1.webp",
+        "/images/mobiles/Oppo Reno 10 Pro-2.webp"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Realme 11 Pro Plus",
+      "category": "Mobiles",
+      "price": 999.99,
+      "images": [
+        "/images/mobiles/Realme 11 Pro Plus-1.webp",
+        "/images/mobiles/Realme 11 Pro Plus-2.webp"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Realme GT Neo 3",
+      "category": "Mobiles",
+      "price": 999.99,
+      "images": [
+        "/images/mobiles/Realme GT Neo 3-1.webp",
+        "/images/mobiles/Realme GT Neo 3-2.webp"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "SAMSUNG Galaxy S23 Ultra",
+      "category": "Mobiles",
+      "price": 999.99,
+      "images": [
+        "/images/mobiles/SAMSUNG Galaxy S23 Ultra-1.webp",
+        "/images/mobiles/SAMSUNG Galaxy S23 Ultra-2.webp"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "SAMSUNG Galaxy Z Flip5",
+      "category": "Mobiles",
+      "price": 999.99,
+      "images": [
+        "/images/mobiles/SAMSUNG Galaxy Z Flip5-1.webp",
+        "/images/mobiles/SAMSUNG Galaxy Z Flip5-2.webp"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "SAMSUNG Galaxy Z Fold5",
+      "category": "Mobiles",
+      "price": 999.99,
+      "images": [
+        "/images/mobiles/SAMSUNG Galaxy Z Fold5-1.webp",
+        "/images/mobiles/SAMSUNG Galaxy Z Fold5-2.webp"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Vivo V29e",
+      "category": "Mobiles",
+      "price": 999.99,
+      "images": [
+        "/images/mobiles/Vivo V29e-1.webp",
+        "/images/mobiles/Vivo V29e-2.webp"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Vivo X90 5G",
+      "category": "Mobiles",
+      "price": 999.99,
+      "images": [
+        "/images/mobiles/Vivo X90 5G-1.webp",
+        "/images/mobiles/Vivo X90 5G-2.webp"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Xiaomi 11X Pro",
+      "category": "Mobiles",
+      "price": 999.99,
+      "images": [
+        "/images/mobiles/Xiaomi 11X Pro-1.webp",
+        "/images/mobiles/Xiaomi 11X Pro-2.webp"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Apple iPad 9th Generation",
+      "category": "Tablets",
+      "price": 999.99,
+      "images": [
+        "/images/tablets/Apple iPad 9th Generation-1.webp",
+        "/images/tablets/Apple iPad 9th Generation-2.webp"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Apple iPad 10th Generation",
+      "category": "Tablets",
+      "price": 999.99,
+      "images": [
+        "/images/tablets/Apple iPad 10th Generation-1.webp",
+        "/images/tablets/Apple iPad 10th Generation-2.webp"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Apple iPad Pro 4th Generation",
+      "category": "Tablets",
+      "price": 999.99,
+      "images": [
+        "/images/tablets/Apple iPad Pro 4th Generation-1.webp",
+        "/images/tablets/Apple iPad Pro 4th Generation-2.webp"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Lenovo Tab M10",
+      "category": "Tablets",
+      "price": 999.99,
+      "images": [
+        "/images/tablets/Lenovo Tab M10-1.webp",
+        "/images/tablets/Lenovo Tab M10-2.webp"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Lenovo Tab P12 Pro",
+      "category": "Tablets",
+      "price": 999.99,
+      "images": [
+        "/images/tablets/Lenovo Tab P12 Pro-1.webp",
+        "/images/tablets/Lenovo Tab P12 Pro-2.webp"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Oppo Pad Air",
+      "category": "Tablets",
+      "price": 999.99,
+      "images": [
+        "/images/tablets/Oppo Pad Air-1.webp",
+        "/images/tablets/Oppo Pad Air-2.webp"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "SAMSUNG Galaxy Tab A9 Plus",
+      "category": "Tablets",
+      "price": 999.99,
+      "images": [
+        "/images/tablets/SAMSUNG Galaxy Tab A9 Plus-1.webp",
+        "/images/tablets/SAMSUNG Galaxy Tab A9 Plus-2.webp"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "SAMSUNG Galaxy Tab S9 Plus",
+      "category": "Tablets",
+      "price": 999.99,
+      "images": [
+        "/images/tablets/SAMSUNG Galaxy Tab S9 Plus-1.webp",
+        "/images/tablets/SAMSUNG Galaxy Tab S9 Plus-2.webp"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Acer Nitro 5",
+      "category": "Laptops",
+      "price": 999.99,
+      "images": [
+        "/images/laptops/Acer Nitro 5-1.webp",
+        "/images/laptops/Acer Nitro 5-2.webp"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Acer Predator Helios Neo 16",
+      "category": "Laptops",
+      "price": 999.99,
+      "images": [
+        "/images/laptops/Acer Predator Helios Neo 16-1.webp",
+        "/images/laptops/Acer Predator Helios Neo 16-2.webp"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Apple MacBook Air",
+      "category": "Laptops",
+      "price": 999.99,
+      "images": [
+        "/images/laptops/Apple MacBook Air-1.webp",
+        "/images/laptops/Apple MacBook Air-2.webp"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Apple MacBook Pro",
+      "category": "Laptops",
+      "price": 999.99,
+      "images": [
+        "/images/laptops/Apple MacBook Pro-1.webp",
+        "/images/laptops/Apple MacBook Pro-2.webp"
+      ]
+    },
+    {
+      "id": 29,
+      "name": "ASUS TUF Gaming F15",
+      "category": "Laptops",
+      "price": 999.99,
+      "images": [
+        "/images/laptops/ASUS TUF Gaming F15-1.webp",
+        "/images/laptops/ASUS TUF Gaming F15-2.webp"
+      ]
+    },
+    {
+      "id": 30,
+      "name": "ASUS Vivobook",
+      "category": "Laptops",
+      "price": 999.99,
+      "images": [
+        "/images/laptops/ASUS Vivobook-1.webp",
+        "/images/laptops/ASUS Vivobook-2.webp"
+      ]
+    },
+    {
+      "id": 31,
+      "name": "DELL Inspiron 3520",
+      "category": "Laptops",
+      "price": 999.99,
+      "images": [
+        "/images/laptops/DELL Inspiron 3520-1.webp",
+        "/images/laptops/DELL Inspiron 3520-2.webp"
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Dell Inspiron G15",
+      "category": "Laptops",
+      "price": 999.99,
+      "images": [
+        "/images/laptops/Dell Inspiron G15-1.webp",
+        "/images/laptops/Dell Inspiron G15-2.webp"
+      ]
+    },
+    {
+      "id": 33,
+      "name": "HP Pavilion",
+      "category": "Laptops",
+      "price": 999.99,
+      "images": [
+        "/images/laptops/HP Pavilion-1.webp",
+        "/images/laptops/HP Pavilion-2.webp"
+      ]
+    },
+    {
+      "id": 34,
+      "name": "HP Victus",
+      "category": "Laptops",
+      "price": 999.99,
+      "images": [
+        "/images/laptops/HP Victus-1.webp",
+        "/images/laptops/HP Victus-2.webp"
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Lenovo IdeaPad 3",
+      "category": "Laptops",
+      "price": 999.99,
+      "images": [
+        "/images/laptops/Lenovo IdeaPad 3-1.webp",
+        "/images/laptops/Lenovo IdeaPad 3-2.webp"
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Lenovo Yoga Slim 6",
+      "category": "Laptops",
+      "price": 999.99,
+      "images": [
+        "/images/laptops/Lenovo Yoga Slim 6-1.webp",
+        "/images/laptops/Lenovo Yoga Slim 6-2.webp"
+      ]
+    },
+    {
+      "id": 37,
+      "name": "LG Gram 16",
+      "category": "Laptops",
+      "price": 999.99,
+      "images": [
+        "/images/laptops/LG Gram 16-1.webp",
+        "/images/laptops/LG Gram 16-2.webp"
+      ]
+    },
+    {
+      "id": 38,
+      "name": "LG Gram 17",
+      "category": "Laptops",
+      "price": 999.99,
+      "images": [
+        "/images/laptops/LG Gram 17-1.webp",
+        "/images/laptops/LG Gram 17-2.webp"
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Microsoft Surface Laptop 5",
+      "category": "Laptops",
+      "price": 999.99,
+      "images": [
+        "/images/laptops/Microsoft Surface Laptop 5-1.webp",
+        "/images/laptops/Microsoft Surface Laptop 5-2.webp"
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Microsoft Surface Laptop Go 3",
+      "category": "Laptops",
+      "price": 999.99,
+      "images": [
+        "/images/laptops/Microsoft Surface Laptop Go 3-1.webp",
+        "/images/laptops/Microsoft Surface Laptop Go 3-2.webp"
+      ]
+    },
+    {
+      "id": 41,
+      "name": "SAMSUNG Galaxy Book3 Pro",
+      "category": "Laptops",
+      "price": 999.99,
+      "images": [
+        "/images/laptops/SAMSUNG Galaxy Book3 Pro-1.webp",
+        "/images/laptops/SAMSUNG Galaxy Book3 Pro-2.webp"
+      ]
+    },
+    {
+      "id": 42,
+      "name": "SAMSUNG Galaxy Book3",
+      "category": "Laptops",
+      "price": 999.99,
+      "images": [
+        "/images/laptops/SAMSUNG Galaxy Book3-1.webp",
+        "/images/laptops/SAMSUNG Galaxy Book3-2.webp"
+      ]
+    },
+    {
+      "id": 43,
+      "name": "LG NANO75",
+      "category": "TVs",
+      "price": 999.99,
+      "images": [
+        "/images/tvs/LG NANO75-1.webp",
+        "/images/tvs/LG NANO75-2.webp"
+      ]
+    },
+    {
+      "id": 44,
+      "name": "LG UR80",
+      "category": "TVs",
+      "price": 999.99,
+      "images": [
+        "/images/tvs/LG UR80-1.webp",
+        "/images/tvs/LG UR80-2.webp"
+      ]
+    },
+    {
+      "id": 45,
+      "name": "OnePlus Q2 Pro",
+      "category": "TVs",
+      "price": 999.99,
+      "images": [
+        "/images/tvs/OnePlus Q2 Pro-1.webp",
+        "/images/tvs/OnePlus Q2 Pro-2.webp"
+      ]
+    },
+    {
+      "id": 46,
+      "name": "OnePlus Y1S Pro",
+      "category": "TVs",
+      "price": 999.99,
+      "images": [
+        "/images/tvs/OnePlus Y1S Pro-1.webp",
+        "/images/tvs/OnePlus Y1S Pro-2.webp"
+      ]
+    },
+    {
+      "id": 47,
+      "name": "SAMSUNG Crystal 4K Neo",
+      "category": "TVs",
+      "price": 999.99,
+      "images": [
+        "/images/tvs/SAMSUNG Crystal 4K Neo-1.webp",
+        "/images/tvs/SAMSUNG Crystal 4K Neo-2.webp"
+      ]
+    },
+    {
+      "id": 48,
+      "name": "SAMSUNG CUE60",
+      "category": "TVs",
+      "price": 999.99,
+      "images": [
+        "/images/tvs/SAMSUNG CUE60-1.webp",
+        "/images/tvs/SAMSUNG CUE60-2.webp"
+      ]
+    },
+    {
+      "id": 49,
+      "name": "SONY X64L",
+      "category": "TVs",
+      "price": 999.99,
+      "images": [
+        "/images/tvs/SONY X64L-1.webp",
+        "/images/tvs/SONY X64L-2.webp"
+      ]
+    },
+    {
+      "id": 50,
+      "name": "SONY X75L",
+      "category": "TVs",
+      "price": 999.99,
+      "images": [
+        "/images/tvs/SONY X75L-1.webp",
+        "/images/tvs/SONY X75L-2.webp"
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Xiaomi 5A",
+      "category": "TVs",
+      "price": 999.99,
+      "images": [
+        "/images/tvs/Xiaomi 5A-1.webp",
+        "/images/tvs/Xiaomi 5A-2.webp"
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Xiaomi X Pro",
+      "category": "TVs",
+      "price": 999.99,
+      "images": [
+        "/images/tvs/Xiaomi X Pro-1.webp",
+        "/images/tvs/Xiaomi X Pro-2.webp"
+      ]
+    }
+  ]
+}
