@@ -12,10 +12,11 @@ import {
 import Shop from "./components/pages/Shop";
 import Contact from "./components/pages/Contact";
 import Home from "./components/pages/Home";
+import ErrorPage from "./components/pages/ErrorPage";
 
 const router = createBrowserRouter(
   createRoutesFromElements(
-    <Route path="/" element={<App />}>
+    <Route path="/" element={<App />} errorElement={<ErrorPage/>}>
       <Route index element={<Home />} />
       <Route path="shop" element={<Shop />} />
       <Route path="contact" element={<Contact />} />
